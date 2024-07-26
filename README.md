@@ -10,10 +10,6 @@ This project demonstrates a gesture-based control system for the game NFS Carbon
 - **In-Game Control:** Maps recognized gestures to in-game actions using simulated key presses.
 - **Hands-Free Gaming:** Provides an intuitive and immersive gaming experience without the need for traditional controllers.
 
-## Demo
-
-![Demo Video](https://www.linkedin.com/posts/fahad-yousuf-0803581b9_computervision-gaming-nfscarbon-activity-7222688100487974913-jVTK?utm_source=share&utm_medium=member_desktop)  
-
 ## How It Works
 
 1. **Hand Tracking and Gesture Recognition:**
