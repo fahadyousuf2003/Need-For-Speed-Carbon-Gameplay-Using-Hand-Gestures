@@ -1,5 +1,4 @@
 # Need-For-Speed-Carbon-Gameplay-Using-Hand-Gestures
-# Gesture-Based Control System for NFS Carbon
 
 ## Introduction
 
